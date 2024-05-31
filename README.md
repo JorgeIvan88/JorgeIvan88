@@ -46,6 +46,12 @@ Apasionado por el mundo de las matemáticas y la tecnología, actualmente inmers
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </a>
+ <img decoding="async" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/K--means-008000?style=for-the-badge&logo=k-means&logoColor=white" alt="K-means"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  </a>
  <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-3C5A99?style=for-the-badge&logo=machine-learning&logoColor=white" alt="machine learning"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/>
