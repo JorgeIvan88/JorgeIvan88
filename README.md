@@ -69,9 +69,13 @@ Apasionado por el mundo de las matemáticas y la tecnología, actualmente inmers
 ### 🔥 Mis Estadísticas :
 
 <div align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JorgeIvan88&theme=dark&background=000000)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=JorgeIvan88&theme=dark&background=000000" alt="GitHub Streak">
+    </a>
 </div>
 
 <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeIvan88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeIvan88&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+    </a>
 </div>
