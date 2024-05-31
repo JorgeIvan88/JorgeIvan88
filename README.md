@@ -19,6 +19,11 @@
   <h2>Hola, soy Jorge Iván. ¡Encantado de conocerte! 👋</h2>
 </div>
 
+ <div id="header" align="left">
+
+### :man_technologist: Sobre mí :
+Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
   
 - 🔭 I’m currently working on ...
