@@ -63,3 +63,11 @@ Apasionado por el mundo de las matemáticas y la tecnología, actualmente inmers
  <img decoding="async" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
   </a>
 </div>
+
+---
+
+### 🔥: Mis Estadisticas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeIvan88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
