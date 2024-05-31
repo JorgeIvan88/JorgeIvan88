@@ -33,12 +33,26 @@ Apasionado por el mundo de las matemáticas y la tecnología, actualmente inmers
 * 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-iván-patiño-carrillo-4a56402a8)
 [![Email Badge](https://img.shields.io/badge/-Correo%20Electrónico-red?style=flat&logo=Gmail&logoColor=white)](mailto:jorgeipc85@gmail.com)
   
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-3C5A99?style=for-the-badge&logo=machine-learning&logoColor=white" alt="machine learning"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Seaborn-4E8CF0?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  </a>
+
+</div>
