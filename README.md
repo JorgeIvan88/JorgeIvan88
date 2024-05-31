@@ -4,9 +4,10 @@
   <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Imagen%20Github.png" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo_ejemplo@gmail.com)
+<div align="center">
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-iván-patiño-carrillo-4a56402a8)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeipc85@gmail.com)
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
