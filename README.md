@@ -22,8 +22,16 @@
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
-Apasionado por el mundo de las matemáticas y la tecnología, actualmente inmerso en una emocionante transición profesional hacia el campo de la Ciencia de Datos. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img decoding="async" src="https://media.giphy.com/media/MfoMqLv5oUP3e/giphy.gif" width="30"><img decoding="async" src="https://media.giphy.com/media/dXBHmOnKqtEg8/giphy.gif" width="30">
+Apasionado por el mundo de las matemáticas y la tecnología, actualmente inmerso en una emocionante transición profesional hacia el campo de la Ciencia de Datos. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+* 👷 Actualmente, estoy dedicando medio tiempo a una empresa especializada en mantenimiento y diversos proyectos de obra civil, pero estoy buscando nuevas oportunidades en el campo del análisis  y la ciencia de datos para ampliar mis horizontes profesionales. 💪
+
+* 👨‍🔬 Estudie el Programa de Data Scientist en el Bootcamp en linea de Tripleten :blue_book: y practicando :computer: lenguaje SQL y Python, Machine Learning, todo lo relacionado a la ciencia de datos.
+
+* 😄 Me encanta descubrir nuevas formas de automatizar mi trabajo
+
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-iván-patiño-carrillo-4a56402a8)
+[![Email Badge](https://img.shields.io/badge/-Correo%20Electrónico-red?style=flat&logo=Gmail&logoColor=white)](mailto:jorgeipc85@gmail.com)
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
