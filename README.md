@@ -14,7 +14,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JorgeIvan88.JorgeIvan88&color=00cf00" alt="Contador de visitas"/>
+  <img decoding="async" src="https://img.shields.io/badge/dynamic/json?color=00cf00&label=Visitas&query=value&url=https://api.countapi.xyz/hit/JorgeIvan88.JorgeIvan88/visits" alt="Contador de visitas"/>
 </div>
 
   
