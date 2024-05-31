@@ -14,7 +14,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img decoding="async" src="https://img.shields.io/badge/dynamic/json?label=Visitas&query=value&url=https://api.countapi.xyz/hit/JorgeIvan88.JorgeIvan88/visits&color=00cf00" alt="Contador de visitas"/>
+  <img decoding="async" src="https://komarev.com/ghpvc/?username=JorgeIvan88&color=00cf00" alt="Contador de visitas"/>
 </div>
 
 
