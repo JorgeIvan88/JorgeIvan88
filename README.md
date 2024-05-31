@@ -24,7 +24,6 @@
 ### :man_technologist: Sobre mí :
 Apasionado por el mundo de las matemáticas y la tecnología, actualmente inmerso en una emocionante transición profesional hacia el campo de la Ciencia de Datos. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img decoding="async" src="https://media.giphy.com/media/MfoMqLv5oUP3e/giphy.gif" width="150"><img decoding="async" src="https://media.giphy.com/media/dXBHmOnKqtEg8/giphy.gif" width="150">
 
-
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
