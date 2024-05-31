@@ -17,6 +17,8 @@
   <img decoding="async" src="https://komarev.com/ghpvc/?username=JorgeIvan88&color=00cf00" alt="Contador de visitas"/>
 </div>
 
+## Hola, soy Jorge Iván. ¡Encantado de conocerte! 👋
+
 
   
 - 🔭 I’m currently working on ...
