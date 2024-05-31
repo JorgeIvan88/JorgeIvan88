@@ -12,6 +12,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
