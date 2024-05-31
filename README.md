@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Imagen%20Github.png" width="800"/>
 </div>
@@ -17,7 +15,9 @@
   <img decoding="async" src="https://komarev.com/ghpvc/?username=JorgeIvan88&color=00cf00" alt="Contador de visitas"/>
 </div>
 
-## Hola, soy Jorge Iván. ¡Encantado de conocerte! 👋
+<div align="center">
+  <h2>Hola, soy Jorge Iván. ¡Encantado de conocerte! 👋</h2>
+</div>
 
 
   
