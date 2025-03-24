@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Imagen%20Github.png" width="800"/>
+  <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Analista de datos imagen.png" width="800"/>
 </div>
 
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Imagen%20Github.png" width="800"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=FF0000&size=30&center=true&vCenter=true&width=900&lines=JORGE+IVÁN+PATIÑO+CARRILLO;PYTHON+|+SQL;MATEMÁTICAS+|+ESTADÍSTICA;TRANSFORMANDO+DATOS+EN+INFORMACIÓN+VALIOSA;">
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jorge-iván-patiño-carrillo-4a56402a8">
