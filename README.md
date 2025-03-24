@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Data Analist Image.png" width="800"/>
+  <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Data%20Analist%20Image.png" width="800"/>
 </div>
 
 <p align="center">
@@ -56,7 +56,27 @@ Con un enfoque fuerte en **Estadística**, **Matemáticas**, **Python**, **SQL**
     <img decoding="async" src="https://img.shields.io/badge/Make-8A8A8A?style=for-the-badge&logo=make&logoColor=white" alt="make"/>
     <img decoding="async" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
     <img decoding="async" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-</div>
+  </div>
+
+---
+
+### 🧠 **Proyectos Técnicos**
+
+### [Proyecto Final DS - Modelo Predictivo](https://github.com/jorgeivan88/proyecto_final/blob/main/proyecto_final.ipynb)
+
+Desarrollo de un modelo predictivo para identificar clientes en riesgo de cancelar sus contratos, utilizando **Pandas**, **NumPy**, **Scikit-learn** y técnicas de **machine learning**.
+
+### [Ejercicios SQL (Repositorio)](https://github.com/jorgeivan88/Ejercicios_SQL)
+
+Desarrollé consultas SQL avanzadas para analizar bases de datos hospitalarias, incluyendo funciones como **Joins avanzados**, **Subconsultas**, y **manejo de fechas**.
+
+### [Aprendizaje Automático de Negocios (Proyecto de pozos de petróleo)](https://github.com/jorgeivan88/proyectos-data-scientist)
+
+Entrené un modelo para predecir el volumen de reservas de pozos, utilizando **scikit-learn**, **Pandas**, y **NumPy**.
+
+### [Series Temporales (Pedidos de taxis)](https://github.com/jorgeivan88/proyectos-data-scientist)
+
+Análisis y modelado de series temporales para prever la demanda de taxis en aeropuertos, con el uso de **LightGBM** y **CatBoost**.
 
 ---
 
@@ -76,28 +96,11 @@ Con un enfoque fuerte en **Estadística**, **Matemáticas**, **Python**, **SQL**
 
 ---
 
-## 🧠 **Proyectos Técnicos**
-
-### [Proyecto Final DS - Modelo Predictivo](https://github.com/jorgeivan88/proyecto_final/blob/main/proyecto_final.ipynb)
-
-Desarrollo de un modelo predictivo para identificar clientes en riesgo de cancelar sus contratos, utilizando **Pandas**, **NumPy**, **Scikit-learn** y técnicas de **machine learning**.
-
-### [Ejercicios SQL (Repositorio)](https://github.com/jorgeivan88/Ejercicios_SQL)
-
-Desarrollé consultas SQL avanzadas para analizar bases de datos hospitalarias, incluyendo funciones como **Joins avanzados**, **Subconsultas**, y **manejo de fechas**.
-
-### [Aprendizaje Automático de Negocios (Proyecto de pozos de petróleo)](https://github.com/jorgeivan88/proyectos-data-scientist)
-
-Entrené un modelo para predecir el volumen de reservas de pozos, utilizando **scikit-learn**, **Pandas**, y **NumPy**.
-
-### [Series Temporales (Pedidos de taxis)](https://github.com/jorgeivan88/proyectos-data-scientist)
-
-Análisis y modelado de series temporales para prever la demanda de taxis en aeropuertos, con el uso de **LightGBM** y **CatBoost**.
-
----
 <div id="badges" align="center">
   <img decoding="async" src="https://komarev.com/ghpvc/?username=JorgeIvan88&color=00cf00" alt="Contador de visitas"/>
 </div>
+
+
 
 
 
