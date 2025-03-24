@@ -2,6 +2,10 @@
   <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Imagen%20Github.png" width="800"/>
 </div>
 
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/JorgeIvan88/JorgeIvan88/blob/main/Imagen%20Github.png" width="800"/>
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jorge-iván-patiño-carrillo-4a56402a8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
